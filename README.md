@@ -1,7 +1,7 @@
 # ConveRT for Response Selection
 
-Transformer-based model for selecting response based on similarity - where I have made modifications based on [codertimo's work](https://github.com/codertimo/ConveRT-pytorch)
-This repository is an unofficial implementation for PolyAI's [ConveRT model](https://github.com/PolyAI-LDN/polyai-models)
+Transformer-based model for selecting response based on similarity - where I have made modifications based on [codertimo's work](https://github.com/codertimo/ConveRT-pytorch)  
+This repository is an unofficial implementation for PolyAI's [ConveRT model](https://github.com/PolyAI-LDN/polyai-models)  
 You can use BERT instead of scratch Transformer Encoder, where I have applied [Korean DistilBERT](https://github.com/monologg/DistilKoBERT)
 
 ## Process
