@@ -1,5 +1,3 @@
-![](https://www.notion.so/robinsongh381/bae6c83adfb44a9788841b295033c033?v=22d13465bd614349827bbc6789713398)
-
 
 # ConveRT for Response Selection
 
