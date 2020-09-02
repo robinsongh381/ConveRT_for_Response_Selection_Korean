@@ -1,3 +1,6 @@
+![](https://www.notion.so/robinsongh381/bae6c83adfb44a9788841b295033c033?v=22d13465bd614349827bbc6789713398)
+
+
 # ConveRT for Response Selection
 
 Transformer-based model for selecting response based on similarity - where I have made modifications based on [codertimo's work](https://github.com/codertimo/ConveRT-pytorch)  
